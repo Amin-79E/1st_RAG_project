@@ -20,7 +20,7 @@ chain = prompt | model
 
 
 while True:
-    print("\n\n-------------------------------------")
+    print("\n\n___________________________________________________")
     question = input("Provide your inquiry (type q to quit ): ")
     print("\n\n")
     if question == "q":
